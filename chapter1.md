@@ -1,4 +1,4 @@
-# BAB 1 :  Seputar Software Quality Assurance
+# TOPIK 1 :  Seputar Software Quality Assurance
 
 ![](http://indonesiavideotron.com/wp-content/uploads/2016/06/Cara-Membedakan-Kualitas-Videotron.jpg)
 
