@@ -1,4 +1,4 @@
-# My Awesome Book
+# My Awesome Book : Belum ada Judulnya
 
 ![](http://untitled.pnca.edu/images/untitled_logo_large2.gif)
 
@@ -9,8 +9,6 @@ Sementara ini sedang seneng menulis seputar :
 1. Software Quality Assurance
 2. Career on IT
 3. Speech Recognition
-
-
 
 
 
